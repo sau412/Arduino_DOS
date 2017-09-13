@@ -29,19 +29,27 @@ Sample work:
 >Arduino DOS ver 1.7
 >
 >C:>uptime
+>
 >4 s
 >
 >C:>b:
 >
 >B:>dir
+>
 >B: is a ROM disk
+>
 >Files:
+>
 >   changelog
+>
 >   about
+>
 >   help
 >
 >Total space: 728 b
+>
 >Used space: 728 b
+>
 >Free space: 0 b
 >
 >B:>
