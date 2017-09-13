@@ -1,5 +1,4 @@
-# Arduino as DOS-like computer.
-
+Arduino as DOS-like computer.
 Input and output via serial port.
 
 Functions:
@@ -26,22 +25,22 @@ Commands:
 * rewrite - rewrite file with string
 
 Sample work:
->Arduino DOS ver 1.7
->
->C:>uptime
->4 s
->
->C:>b:
->
->B:>dir
->B: is a ROM disk
->Files:
->   changelog
->   about
->   help
->
->Total space: 728 b
->Used space: 728 b
->Free space: 0 b
->
->B:>
+Arduino DOS ver 1.7
+
+C:>uptime
+4 s
+
+C:>b:
+
+B:>dir
+B: is a ROM disk
+Files:
+   changelog
+   about
+   help
+
+Total space: 728 b
+Used space: 728 b
+Free space: 0 b
+
+B:>
